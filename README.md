@@ -2,6 +2,12 @@
 
 VS Code extension that enables the nightly build of TypeScript (`typescript@next`) as VS Code's built-in TypeScript version used to power JavaScript and TypeScript IntelliSense.
 
+And Also Stealify integrations. For Example .cjs .mjs
+
+![Image of Working Installation](https://github.com/stealify/typescript/raw/4.1.0/stealify-typescript.png)
+
+
+
 > **❗️Important**: Requires VS Code 1.36 or newer.
 
 ## Enabling
